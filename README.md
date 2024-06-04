@@ -4,9 +4,9 @@
 
 * In this analysis, I aimed to develop machine learning models to predict credit risk, which is crucial for financial institutions in making informed lending decisions. The purpose of this analysis was to evaluate the performance of various machine learning models in predicting whether a loan is healthy (0) or high-risk (1) based on financial data.
 
-* The dataset contained information on various financial attributes of loans, and the target variable was the loan status, categorized into healthy (0) and high-risk (1) loans. We performed exploratory data analysis to understand the distribution of the target variable and the characteristics of the features.
+* The dataset contained information on various financial attributes of loans, and the target variable was the loan status, categorized into healthy (0) and high-risk (1) loans. I performed exploratory data analysis to understand the distribution of the target variable and the characteristics of the features.
 
-* The stages of the machine learning process included data preprocessing, feature engineering, model selection, training, and evaluation. We employed algorithms such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting to build and evaluate the models.
+* The stages of the machine learning process included data preprocessing, feature engineering, model selection, training, and evaluation. I employed algorithms such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting to build and evaluate the models.
 
 ## Results
 
